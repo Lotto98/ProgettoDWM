@@ -1,1 +1,1 @@
-# ProgettoDWM
+# ProgettoDWM (bachelor's degree)
