@@ -1,3 +1,3 @@
 # ProgettoDWM 
 
-old bachelor's degree project for the Data and Web Mining exam.
+old bachelor's degree project for DATA AND WEB MINING exam.
